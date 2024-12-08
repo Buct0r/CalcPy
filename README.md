@@ -10,7 +10,7 @@ It's just a calculator, written in python. Nothing more, nothing less. :/
 ### Installation
 
 #### Windows
-Go to the [release page](), download the executable and run it. As simple as that.
+Go to the [release page](https://github.com/Buct0r/CalcPy/releases), download the executable and run it. As simple as that.
 
 
 #### Linux
