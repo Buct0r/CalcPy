@@ -45,4 +45,6 @@ coming soon...
 ### Conclusion
 Since the executable is not signed, your antivirus will probably block it. If you want you can add an exeption in your antivirus settings or if you don't trust the exe, just download the python file and run it with python. 
 
+Thanks to skesko for the collaboration with the testing phase. :3
+
 Developed by Buct0r❤️
