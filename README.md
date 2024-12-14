@@ -29,7 +29,11 @@ or
 python3 CalcPy.py
 ```
 
-or simply use chmod to make the file executable:
+or simply use chmod to make the file executable. Add this at the top of the file and save it:
+```
+#!/usr/bin/python
+```
+then
 ```
 chmod +x CalcPy.py
 ```
